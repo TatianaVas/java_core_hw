@@ -1,7 +1,7 @@
 public class ClassWork2 {
     public static void main(String[] args){
       //  printSomethingIntoConsole();
-      //  String word = "Hello";
+       String word = "Hello";
       //  printArgumentValueIntoConsole(word);
 
        // double someNumber = calculateSomeExpression(.24, 5.25);
