@@ -24,7 +24,7 @@ public class HomeWork5 {
         persArray[3] = new Employee("Zaharova Elena", "Manager", "zaharovaen@mailbox.com", "89161239087", "55000", "43");
         persArray[4] = new Employee("Horev Zahar", "Programmer", "horevzi@mailbox.com", "899158761289", "70000", "32" );
 
-       // int age = persArray.len;
+
        // for (int i = age; i > 40; i+) {
          //   System.out.println(i);
 
